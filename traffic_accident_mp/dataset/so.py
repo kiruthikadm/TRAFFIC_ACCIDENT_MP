@@ -1,0 +1,1 @@
+print(df["accident_severity"].unique())
