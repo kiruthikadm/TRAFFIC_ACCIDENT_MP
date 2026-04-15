@@ -37,7 +37,7 @@ Analyze high-risk areas for decision-making
 git clone https://github.com/kiruthikadm/TRAFFIC_ACCIDENT_MP
 
 # Navigate to project folder
-cd traffic-hotspot-system
+cd TRAFFIC_ACCIDENT_MP
 
 # Install dependencies
 pip install -r requirements.txt
