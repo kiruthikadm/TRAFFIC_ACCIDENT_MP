@@ -34,7 +34,7 @@ Analyze high-risk areas for decision-making
 
 🚀 Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/traffic-hotspot-system.git
+git clone https://github.com/kiruthikadm/TRAFFIC_ACCIDENT_MP
 
 # Navigate to project folder
 cd traffic-hotspot-system
